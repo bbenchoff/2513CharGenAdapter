@@ -210,14 +210,8 @@
 <description>&lt;b&gt;Generic Memories&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="DIL24" urn="urn:adsk.eagle:footprint:19817/1">
+<package name="DIL24" urn="urn:adsk.eagle:footprint:19817/1" locally_modified="yes">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
-<wire x1="-15.24" y1="6.731" x2="-15.24" y2="1.016" width="0.1524" layer="21"/>
-<wire x1="-15.24" y1="-6.731" x2="-15.24" y2="-1.016" width="0.1524" layer="21"/>
-<wire x1="-15.24" y1="1.016" x2="-15.24" y2="-1.016" width="0.1524" layer="21" curve="-180"/>
-<wire x1="-15.24" y1="-6.731" x2="15.24" y2="-6.731" width="0.1524" layer="21"/>
-<wire x1="15.24" y1="6.731" x2="15.24" y2="-6.731" width="0.1524" layer="21"/>
-<wire x1="15.24" y1="6.731" x2="-15.24" y2="6.731" width="0.1524" layer="21"/>
 <pad name="1" x="-13.97" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
 <pad name="2" x="-11.43" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
 <pad name="7" x="1.27" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
