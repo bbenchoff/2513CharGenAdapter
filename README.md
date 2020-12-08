@@ -7,7 +7,7 @@ An adapter to use a 2716 UV-erasable EPROM as a Signetics 2513 character generat
 Useful for the ADM-3a Dumb Terminal, but also applicable to other computer-like devices utilizing the 2513 such as the Apple 1, Apple ][ and Apple ][+. All you need to do is burn the ROM (in the relevant directory) and solder everything together.
 
 
-![Image of OSHPark render](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/OSHPCB.png)
+![Image of OSHPark render](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/Render.png)
 
 ---
 
