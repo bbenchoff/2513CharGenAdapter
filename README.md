@@ -11,6 +11,8 @@ Useful for the ADM-3a Dumb Terminal, but also applicable to other computer-like 
 
 ![Image of board installed](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/ROMAdapter.jpg)
 
+![Image of board installed](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/ROMswap.jpg)
+
 ---
 
 ## References/guides:
