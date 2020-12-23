@@ -9,6 +9,8 @@ Useful for the ADM-3a Dumb Terminal, but also applicable to other computer-like 
 
 ![Image of OSHPark render](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/Render.png)
 
+![Image of board installed](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/ROMAdapter.jpg)
+
 ---
 
 ## References/guides:
